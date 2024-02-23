@@ -4,7 +4,7 @@ import Footer from '../components/Home/Footer';
 
 export default function About() {
   return (
-    <div className='mx-5 my-12'>
+    <div className='mx-5'>
       <Header/>
       <Main/>
       <Footer/>

@@ -12,7 +12,7 @@ const boxData = [
         class : ""
     },
     {
-        title : "Memory Games" ,
+        title : "Games" ,
         image_path: "/games.svg",
         bg_color: "#B595D6",
         class :"row-start-2"
